@@ -1,6 +1,9 @@
 # PhD_Submission
 
-For the execution of the Demo.py or Data_Generation.py the following preprations are required:
+The code is adjusted to the provided Docker-images. 
+
+
+For the execution of the Demo.py or Data_Generation.py outside of Docker the following preprations are required:
 
 * Check and if necessary arrange the following paths in the Data_Generation.py:
     * Line 4 for loading the descriptions from the .csv file.
